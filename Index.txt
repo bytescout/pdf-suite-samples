@@ -500,8 +500,8 @@
 \VB6\Get pdf page width and height with pdf to html sdk
 \VB6\Merge pdf with pdf extractor sdk
 \VB6\Split pdf with pdf extractor sdk
-\VB6\Create side by side manifest\UMMM-master
-\VB6\Create side by side manifest\UMMM-master\Src
+\VB6\Create side by side manifest\Create side by side manfiest
+\VB6\Create side by side manifest\Create side by side manfiest\Src
 \VBScript\Add 3d annotation in pdf with pdf sdk
 \VBScript\Add file attachment to pdf with pdf sdk
 \VBScript\Add goto action to pdf with pdf sdk
